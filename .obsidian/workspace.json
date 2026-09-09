@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,8 +177,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "63969948b9ef067d",
+  "active": "e2f9619a235e2114",
   "lastOpenFiles": [
-    "Hubs/Management Api (Reference).md"
+    "Reference/management api/deployments/deactivate/Deactivate environment deployment.md",
+    "Hubs/Management Api (Reference).md",
+    "API Reference/Cancel a queued async request.md",
+    "Reference/management api/deployments/activate/Activate environment deployment.md"
   ]
 }
